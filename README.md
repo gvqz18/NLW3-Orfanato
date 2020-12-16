@@ -17,11 +17,13 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [handlebars](https://handlebarsjs.com/)
+✅ HTML 5 <br>
+✅ CSS 3<br>
+✅ JavaScipt<br>
+✅[Node.js](https://nodejs.org/en/)
+✅[Express](https://expressjs.com/pt-br/)
+✅[SQLite](https://www.sqlite.org/index.html)
+✅[handlebars](https://handlebarsjs.com/)
 
 ## 💻 Projeto
 

@@ -17,9 +17,10 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
-✅ HTML 5 <br>
-✅ CSS 3<br>
-✅ JavaScipt<br>
+
+✅HTML 5 <br>
+✅CSS 3<br>
+✅JavaScipt<br>
 ✅[Node.js](https://nodejs.org/en/)
 ✅[Express](https://expressjs.com/pt-br/)
 ✅[SQLite](https://www.sqlite.org/index.html)
